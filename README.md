@@ -2,6 +2,8 @@
 通过合并现有规则并执行添加、删除和修改等自定义操作，实现了规则的实用性和稳定性。
 <br />
 规则链接：https://share.yyycontrol.top/d/Rules/YYYCustomRules/YYYCustomRules.txt
+<br />
+Github链接：https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt
 <hr />
 <p>合并相关链接如下（以下链接不分先后顺序）：</p>
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
