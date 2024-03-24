@@ -10,9 +10,7 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 <br />
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
 <br />
-https://anti-ad.net/adguard.txt
-<br />
-https://anti-ad.net/easylist.txt
+https://big.oisd.nl/
 <br />
 https://raw.githubusercontent.com/qq5460168/me/master/rules.txt
 <br />
@@ -21,8 +19,6 @@ https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
 https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 <br />
 https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-<br />
-https://dev.iw233.cn/Lucky/Adguard.php
 <hr />
 
 <p>如有规则问题请留言反馈，如需二改请注明出处。</p>
